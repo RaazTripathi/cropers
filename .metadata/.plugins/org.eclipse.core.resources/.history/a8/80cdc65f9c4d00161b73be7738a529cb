@@ -1,0 +1,14 @@
+package com.croper.pcm.api;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.croper.pcm.repository.ProductRepository;
+
+@RestController
+public class ProductApi {
+	@Autowired 
+static ProductRepository pr;
+	
+
+
+}

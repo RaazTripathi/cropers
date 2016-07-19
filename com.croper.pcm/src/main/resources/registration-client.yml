@@ -1,0 +1,15 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://127.0.0.1:2222/eureka/
+  instance:
+     preferIpAddress: true
+  
+  
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: file:D:\\studydata\\crapper-workspace\\com.croper.configserver\\src\\main\\resources\\configs
+  
