@@ -1950,3 +1950,377 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 2 problems we
 2016-07-19 14:19:10,173 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2016-07-19 14:19:10,175 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-07-19 14:19:10,175 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.pcm\src\test\resources
+2016-07-19 14:28:20,919 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 14:28:20,920 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-19 14:28:20,921 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-19 14:28:20,923 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 14:28:20,923 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.pcm\src\test\resources
+2016-07-19 15:14:28,257 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-dependencies/Brixton.SR3/spring-cloud-dependencies-Brixton.SR3.pom
+2016-07-19 15:14:28,314 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-dependencies/Brixton.SR3/spring-cloud-dependencies-Brixton.SR3.pom
+2016-07-19 15:14:29,551 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-netflix-dependencies/1.1.4.RELEASE/spring-cloud-netflix-dependencies-1.1.4.RELEASE.pom
+2016-07-19 15:14:29,763 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-netflix-dependencies/1.1.4.RELEASE/spring-cloud-netflix-dependencies-1.1.4.RELEASE.pom
+2016-07-19 15:14:30,646 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-commons-dependencies/1.1.1.RELEASE/spring-cloud-commons-dependencies-1.1.1.RELEASE.pom
+2016-07-19 15:14:30,699 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-commons-dependencies/1.1.1.RELEASE/spring-cloud-commons-dependencies-1.1.1.RELEASE.pom
+2016-07-19 15:14:31,507 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-config-dependencies/1.1.2.RELEASE/spring-cloud-config-dependencies-1.1.2.RELEASE.pom
+2016-07-19 15:14:31,559 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-config-dependencies/1.1.2.RELEASE/spring-cloud-config-dependencies-1.1.2.RELEASE.pom
+2016-07-19 15:14:32,363 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-stream-dependencies/1.0.2.RELEASE/spring-cloud-stream-dependencies-1.0.2.RELEASE.pom
+2016-07-19 15:14:32,436 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-stream-dependencies/1.0.2.RELEASE/spring-cloud-stream-dependencies-1.0.2.RELEASE.pom
+2016-07-19 15:14:33,251 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-task-dependencies/1.0.1.RELEASE/spring-cloud-task-dependencies-1.0.1.RELEASE.pom
+2016-07-19 15:14:33,301 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-task-dependencies/1.0.1.RELEASE/spring-cloud-task-dependencies-1.0.1.RELEASE.pom
+2016-07-19 15:14:34,096 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-consul-dependencies/1.0.2.RELEASE/spring-cloud-consul-dependencies-1.0.2.RELEASE.pom
+2016-07-19 15:14:34,147 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-consul-dependencies/1.0.2.RELEASE/spring-cloud-consul-dependencies-1.0.2.RELEASE.pom
+2016-07-19 15:14:35,192 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-netflix-dependencies/1.1.3.RELEASE/spring-cloud-netflix-dependencies-1.1.3.RELEASE.pom
+2016-07-19 15:14:35,265 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-netflix-dependencies/1.1.3.RELEASE/spring-cloud-netflix-dependencies-1.1.3.RELEASE.pom
+2016-07-19 15:14:36,069 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-sleuth-dependencies/1.0.3.RELEASE/spring-cloud-sleuth-dependencies-1.0.3.RELEASE.pom
+2016-07-19 15:14:36,131 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-sleuth-dependencies/1.0.3.RELEASE/spring-cloud-sleuth-dependencies-1.0.3.RELEASE.pom
+2016-07-19 15:14:36,936 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-zookeeper-dependencies/1.0.2.RELEASE/spring-cloud-zookeeper-dependencies-1.0.2.RELEASE.pom
+2016-07-19 15:14:36,983 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-zookeeper-dependencies/1.0.2.RELEASE/spring-cloud-zookeeper-dependencies-1.0.2.RELEASE.pom
+2016-07-19 15:14:38,030 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-bom/7.6.3/vaadin-bom-7.6.3.pom
+2016-07-19 15:14:38,349 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-bom/7.6.3/vaadin-bom-7.6.3.pom
+2016-07-19 15:14:39,575 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-parent/1.0.0/vaadin-parent-1.0.0.pom
+2016-07-19 15:14:39,872 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-parent/1.0.0/vaadin-parent-1.0.0.pom
+2016-07-19 15:14:40,537 [Worker-107] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\demo\pom.xml.
+2016-07-19 15:14:41,327 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter-config/1.1.2.RELEASE/spring-cloud-starter-config-1.1.2.RELEASE.pom
+2016-07-19 15:14:41,391 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter-config/1.1.2.RELEASE/spring-cloud-starter-config-1.1.2.RELEASE.pom
+2016-07-19 15:14:42,200 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-config/1.1.2.RELEASE/spring-cloud-config-1.1.2.RELEASE.pom
+2016-07-19 15:14:42,255 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-config/1.1.2.RELEASE/spring-cloud-config-1.1.2.RELEASE.pom
+2016-07-19 15:14:43,098 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter/1.1.1.RELEASE/spring-cloud-starter-1.1.1.RELEASE.pom
+2016-07-19 15:14:43,153 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter/1.1.1.RELEASE/spring-cloud-starter-1.1.1.RELEASE.pom
+2016-07-19 15:14:43,950 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-commons-parent/1.1.1.RELEASE/spring-cloud-commons-parent-1.1.1.RELEASE.pom
+2016-07-19 15:14:44,010 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-commons-parent/1.1.1.RELEASE/spring-cloud-commons-parent-1.1.1.RELEASE.pom
+2016-07-19 15:14:45,009 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-context/1.1.1.RELEASE/spring-cloud-context-1.1.1.RELEASE.pom
+2016-07-19 15:14:45,067 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-context/1.1.1.RELEASE/spring-cloud-context-1.1.1.RELEASE.pom
+2016-07-19 15:14:45,882 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-commons/1.1.1.RELEASE/spring-cloud-commons-1.1.1.RELEASE.pom
+2016-07-19 15:14:45,940 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-commons/1.1.1.RELEASE/spring-cloud-commons-1.1.1.RELEASE.pom
+2016-07-19 15:14:46,759 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-config-client/1.1.2.RELEASE/spring-cloud-config-client-1.1.2.RELEASE.pom
+2016-07-19 15:14:46,796 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-config-client/1.1.2.RELEASE/spring-cloud-config-client-1.1.2.RELEASE.pom
+2016-07-19 15:14:47,735 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-spring-boot-starter/1.0.0/vaadin-spring-boot-starter-1.0.0.pom
+2016-07-19 15:14:48,060 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-spring-boot-starter/1.0.0/vaadin-spring-boot-starter-1.0.0.pom
+2016-07-19 15:14:48,858 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-spring-parent/1.0.0/vaadin-spring-parent-1.0.0.pom
+2016-07-19 15:14:49,020 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-spring-parent/1.0.0/vaadin-spring-parent-1.0.0.pom
+2016-07-19 15:14:50,248 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-spring-boot/1.0.0/vaadin-spring-boot-1.0.0.pom
+2016-07-19 15:14:50,459 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-spring-boot/1.0.0/vaadin-spring-boot-1.0.0.pom
+2016-07-19 15:14:51,274 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-spring/1.0.0/vaadin-spring-1.0.0.pom
+2016-07-19 15:14:51,313 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-spring/1.0.0/vaadin-spring-1.0.0.pom
+2016-07-19 15:14:52,107 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-server/7.6.3/vaadin-server-7.6.3.pom
+2016-07-19 15:14:52,152 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-server/7.6.3/vaadin-server-7.6.3.pom
+2016-07-19 15:14:52,959 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-sass-compiler/0.9.13/vaadin-sass-compiler-0.9.13.pom
+2016-07-19 15:14:53,000 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-sass-compiler/0.9.13/vaadin-sass-compiler-0.9.13.pom
+2016-07-19 15:14:53,033 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/w3c/css/sac/1.3/sac-1.3.pom
+2016-07-19 15:14:53,069 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/w3c/css/sac/1.3/sac-1.3.pom
+2016-07-19 15:14:53,876 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/flute/flute/1.3.0.gg2/flute-1.3.0.gg2.pom
+2016-07-19 15:14:53,917 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/flute/flute/1.3.0.gg2/flute-1.3.0.gg2.pom
+2016-07-19 15:14:54,719 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/yahoo/platform/yui/yuicompressor/2.4.8/yuicompressor-2.4.8.pom
+2016-07-19 15:14:54,757 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/yahoo/platform/yui/yuicompressor/2.4.8/yuicompressor-2.4.8.pom
+2016-07-19 15:14:55,555 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/rhino/js/1.7R2/js-1.7R2.pom
+2016-07-19 15:14:55,594 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/rhino/js/1.7R2/js-1.7R2.pom
+2016-07-19 15:14:56,876 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-shared/7.6.3/vaadin-shared-7.6.3.pom
+2016-07-19 15:14:56,912 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-shared/7.6.3/vaadin-shared-7.6.3.pom
+2016-07-19 15:14:58,044 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/streamhtmlparser/streamhtmlparser-jsilver/0.0.10.vaadin1/streamhtmlparser-jsilver-0.0.10.vaadin1.pom
+2016-07-19 15:14:58,082 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/streamhtmlparser/streamhtmlparser-jsilver/0.0.10.vaadin1/streamhtmlparser-jsilver-0.0.10.vaadin1.pom
+2016-07-19 15:14:59,318 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/google/guava/16.0.1.vaadin1/guava-16.0.1.vaadin1.pom
+2016-07-19 15:14:59,636 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/google/guava/16.0.1.vaadin1/guava-16.0.1.vaadin1.pom
+2016-07-19 15:14:59,699 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/jsoup/jsoup/1.8.3/jsoup-1.8.3.pom
+2016-07-19 15:14:59,742 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/jsoup/jsoup/1.8.3/jsoup-1.8.3.pom
+2016-07-19 15:15:00,904 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-themes/7.6.3/vaadin-themes-7.6.3.pom
+2016-07-19 15:15:00,938 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-themes/7.6.3/vaadin-themes-7.6.3.pom
+2016-07-19 15:15:01,921 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-client-compiled/7.6.3/vaadin-client-compiled-7.6.3.pom
+2016-07-19 15:15:01,957 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-client-compiled/7.6.3/vaadin-client-compiled-7.6.3.pom
+2016-07-19 15:15:03,235 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter-config/1.1.2.RELEASE/spring-cloud-starter-config-1.1.2.RELEASE.jar
+2016-07-19 15:15:03,266 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter-config/1.1.2.RELEASE/spring-cloud-starter-config-1.1.2.RELEASE.jar
+2016-07-19 15:15:04,245 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter/1.1.1.RELEASE/spring-cloud-starter-1.1.1.RELEASE.jar
+2016-07-19 15:15:04,284 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter/1.1.1.RELEASE/spring-cloud-starter-1.1.1.RELEASE.jar
+2016-07-19 15:15:07,239 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-context/1.1.1.RELEASE/spring-cloud-context-1.1.1.RELEASE.jar
+2016-07-19 15:15:07,361 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-context/1.1.1.RELEASE/spring-cloud-context-1.1.1.RELEASE.jar
+2016-07-19 15:15:09,657 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-commons/1.1.1.RELEASE/spring-cloud-commons-1.1.1.RELEASE.jar
+2016-07-19 15:15:09,782 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-commons/1.1.1.RELEASE/spring-cloud-commons-1.1.1.RELEASE.jar
+2016-07-19 15:15:10,832 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-config-client/1.1.2.RELEASE/spring-cloud-config-client-1.1.2.RELEASE.jar
+2016-07-19 15:15:10,885 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/cloud/spring-cloud-config-client/1.1.2.RELEASE/spring-cloud-config-client-1.1.2.RELEASE.jar
+2016-07-19 15:15:11,870 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-spring-boot-starter/1.0.0/vaadin-spring-boot-starter-1.0.0.jar
+2016-07-19 15:15:11,906 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-spring-boot-starter/1.0.0/vaadin-spring-boot-starter-1.0.0.jar
+2016-07-19 15:15:12,924 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-spring-boot/1.0.0/vaadin-spring-boot-1.0.0.jar
+2016-07-19 15:15:12,978 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-spring-boot/1.0.0/vaadin-spring-boot-1.0.0.jar
+2016-07-19 15:15:14,077 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-spring/1.0.0/vaadin-spring-1.0.0.jar
+2016-07-19 15:15:14,171 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-spring/1.0.0/vaadin-spring-1.0.0.jar
+2016-07-19 15:15:35,582 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-server/7.6.3/vaadin-server-7.6.3.jar
+2016-07-19 15:15:41,343 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-server/7.6.3/vaadin-server-7.6.3.jar
+2016-07-19 15:15:46,564 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-sass-compiler/0.9.13/vaadin-sass-compiler-0.9.13.jar
+2016-07-19 15:15:46,879 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-sass-compiler/0.9.13/vaadin-sass-compiler-0.9.13.jar
+2016-07-19 15:15:46,904 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/w3c/css/sac/1.3/sac-1.3.jar
+2016-07-19 15:15:46,943 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/w3c/css/sac/1.3/sac-1.3.jar
+2016-07-19 15:15:48,411 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/flute/flute/1.3.0.gg2/flute-1.3.0.gg2.jar
+2016-07-19 15:15:49,058 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/flute/flute/1.3.0.gg2/flute-1.3.0.gg2.jar
+2016-07-19 15:15:55,758 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/yahoo/platform/yui/yuicompressor/2.4.8/yuicompressor-2.4.8.jar
+2016-07-19 15:15:56,154 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/yahoo/platform/yui/yuicompressor/2.4.8/yuicompressor-2.4.8.jar
+2016-07-19 15:16:03,274 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/rhino/js/1.7R2/js-1.7R2.jar
+2016-07-19 15:16:03,638 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/rhino/js/1.7R2/js-1.7R2.jar
+2016-07-19 15:16:18,804 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-shared/7.6.3/vaadin-shared-7.6.3.jar
+2016-07-19 15:16:21,310 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-shared/7.6.3/vaadin-shared-7.6.3.jar
+2016-07-19 15:16:22,403 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/streamhtmlparser/streamhtmlparser-jsilver/0.0.10.vaadin1/streamhtmlparser-jsilver-0.0.10.vaadin1.jar
+2016-07-19 15:16:22,464 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/streamhtmlparser/streamhtmlparser-jsilver/0.0.10.vaadin1/streamhtmlparser-jsilver-0.0.10.vaadin1.jar
+2016-07-19 15:16:38,225 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/google/guava/16.0.1.vaadin1/guava-16.0.1.vaadin1.jar
+2016-07-19 15:16:42,337 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/google/guava/16.0.1.vaadin1/guava-16.0.1.vaadin1.jar
+2016-07-19 15:16:46,687 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/jsoup/jsoup/1.8.3/jsoup-1.8.3.jar
+2016-07-19 15:16:46,937 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/jsoup/jsoup/1.8.3/jsoup-1.8.3.jar
+2016-07-19 15:17:23,659 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-themes/7.6.3/vaadin-themes-7.6.3.jar
+2016-07-19 15:17:30,864 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-themes/7.6.3/vaadin-themes-7.6.3.jar
+2016-07-19 15:17:40,551 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-client-compiled/7.6.3/vaadin-client-compiled-7.6.3.jar
+2016-07-19 15:17:41,446 [Worker-107] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-client-compiled/7.6.3/vaadin-client-compiled-7.6.3.jar
+2016-07-19 15:17:43,704 [Worker-107] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.croper.configserver:com.croper.configserver:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper.configserver\pom.xml.
+2016-07-19 15:17:45,109 [Worker-107] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.croper.eurekaserver:com.croper.eurekaserver:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper.eurekaserver\pom.xml.
+2016-07-19 15:17:47,742 [Worker-107] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2016-07-19 15:17:47,743 [Worker-107] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2016-07-19 15:17:47,769 [Worker-107] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2016-07-19 15:17:47,798 [Worker-107] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2016-07-19 15:17:50,190 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:17:50,190 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:17:50,190 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:17:50,191 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:17:50,192 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.configserver\src\test\resources
+2016-07-19 15:17:50,289 [Worker-107] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 204 sec
+2016-07-19 15:17:50,303 [Worker-107] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-19 15:17:50,796 [Worker-107] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\demo\pom.xml.
+2016-07-19 15:17:52,467 [Worker-107] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2016-07-19 15:17:52,467 [Worker-107] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2016-07-19 15:17:52,470 [Worker-107] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2016-07-19 15:17:52,494 [Worker-107] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2016-07-19 15:17:54,505 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:17:54,506 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:17:54,506 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:17:54,508 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:17:54,509 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.eurekaserver\src\test\resources
+2016-07-19 15:17:54,570 [Worker-107] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2016-07-19 15:17:56,134 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:17:56,135 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-19 15:17:56,137 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:17:56,139 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:17:56,139 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\demo\src\test\resources
+2016-07-19 15:34:13,255 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-bom/7.6.2/vaadin-bom-7.6.2.pom
+2016-07-19 15:34:13,292 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-bom/7.6.2/vaadin-bom-7.6.2.pom
+2016-07-19 15:34:14,920 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-maven-plugin/7.6.2/vaadin-maven-plugin-7.6.2.pom
+2016-07-19 15:34:14,975 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-maven-plugin/7.6.2/vaadin-maven-plugin-7.6.2.pom
+2016-07-19 15:34:18,121 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-maven-plugin/7.6.2/vaadin-maven-plugin-7.6.2.jar
+2016-07-19 15:34:19,891 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-maven-plugin/7.6.2/vaadin-maven-plugin-7.6.2.jar
+2016-07-19 15:34:20,904 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/plugins/maven-clean-plugin/2.6.1/maven-clean-plugin-2.6.1.jar
+2016-07-19 15:34:20,968 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/plugins/maven-clean-plugin/2.6.1/maven-clean-plugin-2.6.1.jar
+2016-07-19 15:34:21,169 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/plugins/maven-compiler-plugin/3.3/maven-compiler-plugin-3.3.jar
+2016-07-19 15:34:21,265 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/plugins/maven-compiler-plugin/3.3/maven-compiler-plugin-3.3.jar
+2016-07-19 15:34:21,583 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/plugins/maven-compiler-plugin/3.3/maven-compiler-plugin-3.3.pom
+2016-07-19 15:34:21,622 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/plugins/maven-compiler-plugin/3.3/maven-compiler-plugin-3.3.pom
+2016-07-19 15:34:21,964 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.pom
+2016-07-19 15:34:22,009 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.pom
+2016-07-19 15:34:22,063 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/reporting/maven-reporting/2.2.1/maven-reporting-2.2.1.pom
+2016-07-19 15:34:22,402 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/reporting/maven-reporting/2.2.1/maven-reporting-2.2.1.pom
+2016-07-19 15:34:22,435 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/doxia/doxia-sink-api/1.1/doxia-sink-api-1.1.pom
+2016-07-19 15:34:22,476 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/doxia/doxia-sink-api/1.1/doxia-sink-api-1.1.pom
+2016-07-19 15:34:22,527 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/doxia/doxia/1.1/doxia-1.1.pom
+2016-07-19 15:34:22,582 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/doxia/doxia/1.1/doxia-1.1.pom
+2016-07-19 15:34:22,617 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/doxia/doxia-logging-api/1.1/doxia-logging-api-1.1.pom
+2016-07-19 15:34:22,655 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/doxia/doxia-logging-api/1.1/doxia-logging-api-1.1.pom
+2016-07-19 15:34:22,769 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/commons-cli/commons-cli/1.2/commons-cli-1.2.pom
+2016-07-19 15:34:22,807 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/commons-cli/commons-cli/1.2/commons-cli-1.2.pom
+2016-07-19 15:34:22,874 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/shared/maven-shared-utils/0.7/maven-shared-utils-0.7.pom
+2016-07-19 15:34:22,913 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/shared/maven-shared-utils/0.7/maven-shared-utils-0.7.pom
+2016-07-19 15:34:22,959 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/shared/maven-shared-components/20/maven-shared-components-20.pom
+2016-07-19 15:34:22,998 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/shared/maven-shared-components/20/maven-shared-components-20.pom
+2016-07-19 15:34:23,108 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-api/2.5/plexus-compiler-api-2.5.pom
+2016-07-19 15:34:23,149 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-api/2.5/plexus-compiler-api-2.5.pom
+2016-07-19 15:34:23,181 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler/2.5/plexus-compiler-2.5.pom
+2016-07-19 15:34:23,220 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler/2.5/plexus-compiler-2.5.pom
+2016-07-19 15:34:23,269 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.pom
+2016-07-19 15:34:23,304 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.pom
+2016-07-19 15:34:23,338 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-manager/2.5/plexus-compiler-manager-2.5.pom
+2016-07-19 15:34:23,374 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-manager/2.5/plexus-compiler-manager-2.5.pom
+2016-07-19 15:34:23,405 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-javac/2.5/plexus-compiler-javac-2.5.pom
+2016-07-19 15:34:23,442 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-javac/2.5/plexus-compiler-javac-2.5.pom
+2016-07-19 15:34:23,476 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/codehaus/plexus/plexus-compilers/2.5/plexus-compilers-2.5.pom
+2016-07-19 15:34:23,515 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/codehaus/plexus/plexus-compilers/2.5/plexus-compilers-2.5.pom
+2016-07-19 15:34:23,690 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/shared/maven-shared-utils/0.7/maven-shared-utils-0.7.jar
+2016-07-19 15:34:23,844 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/apache/maven/shared/maven-shared-utils/0.7/maven-shared-utils-0.7.jar
+2016-07-19 15:34:23,869 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-api/2.5/plexus-compiler-api-2.5.jar
+2016-07-19 15:34:23,902 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-api/2.5/plexus-compiler-api-2.5.jar
+2016-07-19 15:34:23,934 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-manager/2.5/plexus-compiler-manager-2.5.jar
+2016-07-19 15:34:23,971 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-manager/2.5/plexus-compiler-manager-2.5.jar
+2016-07-19 15:34:24,016 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-javac/2.5/plexus-compiler-javac-2.5.jar
+2016-07-19 15:34:24,068 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-javac/2.5/plexus-compiler-javac-2.5.jar
+2016-07-19 15:34:24,608 [Worker-112] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: my.vaaadin:app:0.0.1-SNAPSHOT @ C:\Users\E0650538\Downloads\tutorial-step2\pom.xml.
+2016-07-19 15:34:25,424 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-server/7.6.2/vaadin-server-7.6.2.pom
+2016-07-19 15:34:25,463 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-server/7.6.2/vaadin-server-7.6.2.pom
+2016-07-19 15:34:26,283 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-shared/7.6.2/vaadin-shared-7.6.2.pom
+2016-07-19 15:34:26,320 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-shared/7.6.2/vaadin-shared-7.6.2.pom
+2016-07-19 15:34:27,131 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-push/7.6.2/vaadin-push-7.6.2.pom
+2016-07-19 15:34:27,169 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-push/7.6.2/vaadin-push-7.6.2.pom
+2016-07-19 15:34:28,149 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/atmosphere/atmosphere-runtime/2.2.7.vaadin1/atmosphere-runtime-2.2.7.vaadin1.pom
+2016-07-19 15:34:28,409 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/atmosphere/atmosphere-runtime/2.2.7.vaadin1/atmosphere-runtime-2.2.7.vaadin1.pom
+2016-07-19 15:34:29,382 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/atmosphere/atmosphere-project/2.2.7.vaadin1/atmosphere-project-2.2.7.vaadin1.pom
+2016-07-19 15:34:29,742 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/atmosphere/atmosphere-project/2.2.7.vaadin1/atmosphere-project-2.2.7.vaadin1.pom
+2016-07-19 15:34:30,736 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/slf4j/vaadin-slf4j-jdk14/1.6.1/vaadin-slf4j-jdk14-1.6.1.pom
+2016-07-19 15:34:30,772 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/slf4j/vaadin-slf4j-jdk14/1.6.1/vaadin-slf4j-jdk14-1.6.1.pom
+2016-07-19 15:34:31,570 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-client/7.6.2/vaadin-client-7.6.2.pom
+2016-07-19 15:34:31,626 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-client/7.6.2/vaadin-client-7.6.2.pom
+2016-07-19 15:34:32,460 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-themes/7.6.2/vaadin-themes-7.6.2.pom
+2016-07-19 15:34:32,495 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-themes/7.6.2/vaadin-themes-7.6.2.pom
+2016-07-19 15:35:01,589 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-server/7.6.2/vaadin-server-7.6.2.jar
+2016-07-19 15:35:03,016 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-server/7.6.2/vaadin-server-7.6.2.jar
+2016-07-19 15:35:32,314 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-shared/7.6.2/vaadin-shared-7.6.2.jar
+2016-07-19 15:35:33,387 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-shared/7.6.2/vaadin-shared-7.6.2.jar
+2016-07-19 15:35:38,957 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-push/7.6.2/vaadin-push-7.6.2.jar
+2016-07-19 15:35:40,176 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-push/7.6.2/vaadin-push-7.6.2.jar
+2016-07-19 15:35:49,309 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/atmosphere/atmosphere-runtime/2.2.7.vaadin1/atmosphere-runtime-2.2.7.vaadin1.jar
+2016-07-19 15:35:50,852 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/atmosphere/atmosphere-runtime/2.2.7.vaadin1/atmosphere-runtime-2.2.7.vaadin1.jar
+2016-07-19 15:35:51,980 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/slf4j/vaadin-slf4j-jdk14/1.6.1/vaadin-slf4j-jdk14-1.6.1.jar
+2016-07-19 15:35:52,040 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/external/slf4j/vaadin-slf4j-jdk14/1.6.1/vaadin-slf4j-jdk14-1.6.1.jar
+2016-07-19 15:38:39,464 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-client/7.6.2/vaadin-client-7.6.2.jar
+2016-07-19 15:38:52,534 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-client/7.6.2/vaadin-client-7.6.2.jar
+2016-07-19 15:38:52,564 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA-sources.jar
+2016-07-19 15:38:52,624 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA-sources.jar
+2016-07-19 15:40:05,904 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-themes/7.6.2/vaadin-themes-7.6.2.jar
+2016-07-19 15:40:12,779 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/com/vaadin/vaadin-themes/7.6.2/vaadin-themes-7.6.2.jar
+2016-07-19 15:40:14,885 [Worker-112] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /app/src/main/java
+2016-07-19 15:40:14,885 [Worker-112] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/main/resources
+2016-07-19 15:40:14,897 [Worker-112] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /app/src/test/java
+2016-07-19 15:40:16,727 [Worker-112] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 365 sec
+2016-07-19 15:40:20,797 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:40:20,797 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-19 15:40:20,804 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:40:20,804 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\E0650538\Downloads\tutorial-step2\src\test\resources
+2016-07-19 15:41:30,784 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:41:30,785 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-19 15:41:30,788 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-19 15:41:30,791 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:41:30,791 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.pcm\src\test\resources
+2016-07-19 15:42:22,109 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-07-19 15:51:39,395 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:51:39,396 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:51:39,397 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:51:39,397 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\E0650538\Downloads\tutorial-step2\src\test\resources
+2016-07-19 15:51:39,425 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:51:39,426 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:51:39,426 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:51:39,429 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:51:39,433 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.configserver\src\test\resources
+2016-07-19 15:51:39,456 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:51:39,456 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:51:39,456 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:51:39,458 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:51:39,458 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.eurekaserver\src\test\resources
+2016-07-19 15:51:39,479 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:51:39,479 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:51:39,479 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:51:39,480 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:51:39,480 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.pcm\src\test\resources
+2016-07-19 15:51:43,888 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:51:43,889 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-19 15:51:43,896 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:51:43,896 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\E0650538\Downloads\tutorial-step2\src\test\resources
+2016-07-19 15:53:17,474 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:53:17,474 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:53:17,477 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:53:17,477 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\E0650538\Downloads\tutorial-step2\src\test\resources
+2016-07-19 15:53:17,505 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:53:17,505 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:53:17,505 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:53:17,507 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:53:17,507 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.configserver\src\test\resources
+2016-07-19 15:53:17,528 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:53:17,528 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:53:17,528 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:53:17,530 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:53:17,530 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.eurekaserver\src\test\resources
+2016-07-19 15:53:17,552 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:53:17,552 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:53:17,552 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:53:17,556 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:53:17,557 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.pcm\src\test\resources
+2016-07-19 15:53:43,293 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:53:43,293 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-19 15:53:43,300 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:53:43,300 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\E0650538\Downloads\tutorial-step2\src\test\resources
+2016-07-19 15:53:43,921 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:53:43,922 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-19 15:53:43,924 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-19 15:53:43,943 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:53:43,944 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.configserver\src\test\resources
+2016-07-19 15:53:44,906 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:53:44,906 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-19 15:53:44,909 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-19 15:53:44,916 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:53:44,916 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.eurekaserver\src\test\resources
+2016-07-19 15:53:45,305 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:53:45,306 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-19 15:53:45,309 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-19 15:53:45,316 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:53:45,316 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.pcm\src\test\resources
+2016-07-19 15:54:14,297 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:54:14,298 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-19 15:54:14,302 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:54:14,302 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\E0650538\Downloads\tutorial-step2\src\test\resources
+2016-07-19 15:54:35,288 [Worker-126] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-19 15:54:36,505 [Worker-126] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: my.vaaadin:app:0.0.1-SNAPSHOT @ C:\Users\E0650538\Downloads\tutorial-step2\pom.xml.
+2016-07-19 15:54:37,216 [Worker-126] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.croper.configserver:com.croper.configserver:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper.configserver\pom.xml.
+2016-07-19 15:54:38,580 [Worker-126] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.croper.eurekaserver:com.croper.eurekaserver:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper.eurekaserver\pom.xml.
+2016-07-19 15:54:39,199 [Worker-126] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.croper.pcm:com.croper.pcm:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper.pcm\pom.xml.
+2016-07-19 15:54:41,873 [Worker-126] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /app/src/main/java
+2016-07-19 15:54:41,873 [Worker-126] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/main/resources
+2016-07-19 15:54:41,873 [Worker-126] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /app/src/test/java
+2016-07-19 15:54:42,478 [Worker-126] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for app
+2016-07-19 15:54:42,498 [Worker-126] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2016-07-19 15:54:43,046 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:54:43,046 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-19 15:54:43,056 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:54:43,056 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\E0650538\Downloads\tutorial-step2\src\test\resources
+2016-07-19 15:54:43,056 [Worker-127] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of app
+2016-07-19 15:54:43,057 [Worker-127] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for app
+2016-07-19 15:54:43,070 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:54:44,239 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:54:44,240 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:54:44,240 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:54:44,242 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:54:44,242 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.configserver\src\test\resources
+2016-07-19 15:54:45,585 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:54:45,585 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:54:45,585 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:54:45,587 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:54:45,587 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.eurekaserver\src\test\resources
+2016-07-19 15:54:46,225 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:54:46,225 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:54:46,225 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-19 15:54:46,226 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:54:46,226 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.pcm\src\test\resources
+2016-07-19 15:54:52,995 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-07-19 15:55:23,708 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-07-19 15:55:32,452 [Worker-129] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\E0650538\Downloads\tutorial-step2
+2016-07-19 15:55:32,454 [Worker-129] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s U:\UEVredirect\.m2\settings.xml mvn jetty:run
+2016-07-19 15:55:33,021 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:55:33,022 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-19 15:55:33,034 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-19 15:55:33,036 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:55:33,037 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.pcm\src\test\resources
+2016-07-19 15:55:51,020 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-07-19 15:55:51,103 [Worker-127] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\E0650538\Downloads\tutorial-step2
+2016-07-19 15:55:51,104 [Worker-127] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s U:\UEVredirect\.m2\settings.xml mvn jetty:run
+2016-07-19 15:56:04,161 [Worker-136] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\E0650538\Downloads\tutorial-step2
+2016-07-19 15:56:04,162 [Worker-136] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s U:\UEVredirect\.m2\settings.xml  jetty:run
+2016-07-19 16:06:37,401 [Worker-130] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\E0650538\Downloads\tutorial-step2
+2016-07-19 16:06:37,402 [Worker-130] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s U:\UEVredirect\.m2\settings.xml install,  jetty:run
+2016-07-19 16:08:07,752 [Worker-130] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\E0650538\Downloads\tutorial-step2
+2016-07-19 16:08:07,753 [Worker-130] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s U:\UEVredirect\.m2\settings.xml install  jetty:run
+2016-07-20 14:29:11,353 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.croper:com.croper:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper\pom.xml.
+2016-07-20 14:29:15,004 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.croper.configserver:com.croper.configserver:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper.configserver\pom.xml.
+2016-07-20 14:29:18,785 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.croper.eurekaserver:com.croper.eurekaserver:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper.eurekaserver\pom.xml.
+2016-07-20 14:29:19,874 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.croper.pcm:com.croper.pcm:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper.pcm\pom.xml.
+2016-07-20 14:29:39,517 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-20 14:29:39,522 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-20 14:29:39,547 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-20 14:29:39,562 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-20 14:29:39,562 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.configserver\src\test\resources
+2016-07-20 14:29:42,107 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-20 14:29:42,108 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-20 14:29:42,115 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-20 14:29:42,126 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-20 14:29:42,126 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.eurekaserver\src\test\resources
+2016-07-20 14:29:43,853 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-20 14:29:43,854 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-20 14:29:43,861 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-20 14:29:43,872 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-20 14:29:43,872 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.pcm\src\test\resources
