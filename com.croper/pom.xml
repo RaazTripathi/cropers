@@ -18,6 +18,7 @@
   <module>../com.croper.eurekaserver</module>
   <module>../com.croper.configserver</module>
     <module>../com.croper.pcm</module>
+     <module>../com.croper.web</module>
   
   </modules>
 </project>

@@ -1,5 +1,0 @@
-package com.croper.pcm.repository;
-
-public class ProductRepository extends MongoRepository {
-
-}

@@ -10,13 +10,8 @@
  */
 angular
   .module('webClientApp', [
-    'ngAnimate',
-    'ngCookies',
-    'ngResource',
-    'ngRoute',
-    'ngSanitize',
-    'ngTouch'
-  ])
+    'ngRoute'
+   ])
   .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
@@ -28,6 +23,11 @@ angular
         templateUrl: 'views/about.html',
         controller: 'AboutCtrl',
         controllerAs: 'about'
+      })
+      .when('/product', {
+        templateUrl: 'views/product.html',
+        controller: 'ProductCtrl',
+        controllerAs: 'product'
       })
       .otherwise({
         redirectTo: '/'

@@ -2324,3 +2324,189 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 2 problems we
 2016-07-20 14:29:43,861 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2016-07-20 14:29:43,872 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-07-20 14:29:43,872 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.pcm\src\test\resources
+2016-07-21 14:51:51,290 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.croper.web:com.croper.web:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper.web\pom.xml.
+2016-07-21 14:51:53,182 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-aop/1.3.6.RELEASE/spring-boot-starter-aop-1.3.6.RELEASE.pom
+2016-07-21 14:51:53,233 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-aop/1.3.6.RELEASE/spring-boot-starter-aop-1.3.6.RELEASE.pom
+2016-07-21 14:51:54,283 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-cache/1.3.6.RELEASE/spring-boot-starter-cache-1.3.6.RELEASE.pom
+2016-07-21 14:51:54,341 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-cache/1.3.6.RELEASE/spring-boot-starter-cache-1.3.6.RELEASE.pom
+2016-07-21 14:51:55,270 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-mobile/1.3.6.RELEASE/spring-boot-starter-mobile-1.3.6.RELEASE.pom
+2016-07-21 14:51:55,384 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-mobile/1.3.6.RELEASE/spring-boot-starter-mobile-1.3.6.RELEASE.pom
+2016-07-21 14:51:55,685 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/mobile/spring-mobile-device/1.1.5.RELEASE/spring-mobile-device-1.1.5.RELEASE.pom
+2016-07-21 14:51:55,722 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/mobile/spring-mobile-device/1.1.5.RELEASE/spring-mobile-device-1.1.5.RELEASE.pom
+2016-07-21 14:51:56,567 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-security/1.3.6.RELEASE/spring-boot-starter-security-1.3.6.RELEASE.pom
+2016-07-21 14:51:56,661 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-security/1.3.6.RELEASE/spring-boot-starter-security-1.3.6.RELEASE.pom
+2016-07-21 14:51:57,691 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/security/spring-security-config/4.0.4.RELEASE/spring-security-config-4.0.4.RELEASE.pom
+2016-07-21 14:51:57,750 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/security/spring-security-config/4.0.4.RELEASE/spring-security-config-4.0.4.RELEASE.pom
+2016-07-21 14:51:57,831 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/security/spring-security-core/4.0.4.RELEASE/spring-security-core-4.0.4.RELEASE.pom
+2016-07-21 14:51:57,884 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/security/spring-security-core/4.0.4.RELEASE/spring-security-core-4.0.4.RELEASE.pom
+2016-07-21 14:51:58,704 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/security/spring-security-web/4.0.4.RELEASE/spring-security-web-4.0.4.RELEASE.pom
+2016-07-21 14:51:58,762 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/security/spring-security-web/4.0.4.RELEASE/spring-security-web-4.0.4.RELEASE.pom
+2016-07-21 14:51:59,589 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-ws/1.3.6.RELEASE/spring-boot-starter-ws-1.3.6.RELEASE.pom
+2016-07-21 14:51:59,656 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-ws/1.3.6.RELEASE/spring-boot-starter-ws-1.3.6.RELEASE.pom
+2016-07-21 14:52:00,563 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-jms/4.2.7.RELEASE/spring-jms-4.2.7.RELEASE.pom
+2016-07-21 14:52:00,619 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-jms/4.2.7.RELEASE/spring-jms-4.2.7.RELEASE.pom
+2016-07-21 14:52:01,442 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-messaging/4.2.7.RELEASE/spring-messaging-4.2.7.RELEASE.pom
+2016-07-21 14:52:01,502 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-messaging/4.2.7.RELEASE/spring-messaging-4.2.7.RELEASE.pom
+2016-07-21 14:52:02,382 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-oxm/4.2.7.RELEASE/spring-oxm-4.2.7.RELEASE.pom
+2016-07-21 14:52:02,442 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-oxm/4.2.7.RELEASE/spring-oxm-4.2.7.RELEASE.pom
+2016-07-21 14:52:02,518 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/ws/spring-ws-core/2.2.3.RELEASE/spring-ws-core-2.2.3.RELEASE.pom
+2016-07-21 14:52:02,577 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/ws/spring-ws-core/2.2.3.RELEASE/spring-ws-core-2.2.3.RELEASE.pom
+2016-07-21 14:52:02,672 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/ws/spring-xml/2.2.3.RELEASE/spring-xml-2.2.3.RELEASE.pom
+2016-07-21 14:52:02,740 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/ws/spring-xml/2.2.3.RELEASE/spring-xml-2.2.3.RELEASE.pom
+2016-07-21 14:52:03,565 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/ws/spring-ws-support/2.2.3.RELEASE/spring-ws-support-2.2.3.RELEASE.pom
+2016-07-21 14:52:03,625 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/ws/spring-ws-support/2.2.3.RELEASE/spring-ws-support-2.2.3.RELEASE.pom
+2016-07-21 14:52:04,629 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-aop/1.3.6.RELEASE/spring-boot-starter-aop-1.3.6.RELEASE.jar
+2016-07-21 14:52:04,664 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-aop/1.3.6.RELEASE/spring-boot-starter-aop-1.3.6.RELEASE.jar
+2016-07-21 14:52:05,488 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-cache/1.3.6.RELEASE/spring-boot-starter-cache-1.3.6.RELEASE.jar
+2016-07-21 14:52:05,535 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-cache/1.3.6.RELEASE/spring-boot-starter-cache-1.3.6.RELEASE.jar
+2016-07-21 14:52:06,402 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-mobile/1.3.6.RELEASE/spring-boot-starter-mobile-1.3.6.RELEASE.jar
+2016-07-21 14:52:06,494 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-mobile/1.3.6.RELEASE/spring-boot-starter-mobile-1.3.6.RELEASE.jar
+2016-07-21 14:52:06,540 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/mobile/spring-mobile-device/1.1.5.RELEASE/spring-mobile-device-1.1.5.RELEASE.jar
+2016-07-21 14:52:06,626 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/mobile/spring-mobile-device/1.1.5.RELEASE/spring-mobile-device-1.1.5.RELEASE.jar
+2016-07-21 14:52:07,518 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-security/1.3.6.RELEASE/spring-boot-starter-security-1.3.6.RELEASE.jar
+2016-07-21 14:52:07,599 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-security/1.3.6.RELEASE/spring-boot-starter-security-1.3.6.RELEASE.jar
+2016-07-21 14:52:12,451 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/security/spring-security-config/4.0.4.RELEASE/spring-security-config-4.0.4.RELEASE.jar
+2016-07-21 14:52:12,714 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/security/spring-security-config/4.0.4.RELEASE/spring-security-config-4.0.4.RELEASE.jar
+2016-07-21 14:52:16,961 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/security/spring-security-core/4.0.4.RELEASE/spring-security-core-4.0.4.RELEASE.jar
+2016-07-21 14:52:17,311 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/security/spring-security-core/4.0.4.RELEASE/spring-security-core-4.0.4.RELEASE.jar
+2016-07-21 14:52:22,421 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/security/spring-security-web/4.0.4.RELEASE/spring-security-web-4.0.4.RELEASE.jar
+2016-07-21 14:52:22,728 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/security/spring-security-web/4.0.4.RELEASE/spring-security-web-4.0.4.RELEASE.jar
+2016-07-21 14:52:23,564 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-ws/1.3.6.RELEASE/spring-boot-starter-ws-1.3.6.RELEASE.jar
+2016-07-21 14:52:23,616 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-ws/1.3.6.RELEASE/spring-boot-starter-ws-1.3.6.RELEASE.jar
+2016-07-21 14:52:27,100 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-jms/4.2.7.RELEASE/spring-jms-4.2.7.RELEASE.jar
+2016-07-21 14:52:27,731 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-jms/4.2.7.RELEASE/spring-jms-4.2.7.RELEASE.jar
+2016-07-21 14:52:31,958 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-messaging/4.2.7.RELEASE/spring-messaging-4.2.7.RELEASE.jar
+2016-07-21 14:52:32,569 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-messaging/4.2.7.RELEASE/spring-messaging-4.2.7.RELEASE.jar
+2016-07-21 14:52:33,935 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-oxm/4.2.7.RELEASE/spring-oxm-4.2.7.RELEASE.jar
+2016-07-21 14:52:34,194 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-oxm/4.2.7.RELEASE/spring-oxm-4.2.7.RELEASE.jar
+2016-07-21 14:52:34,315 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/ws/spring-ws-core/2.2.3.RELEASE/spring-ws-core-2.2.3.RELEASE.jar
+2016-07-21 14:52:35,182 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/ws/spring-ws-core/2.2.3.RELEASE/spring-ws-core-2.2.3.RELEASE.jar
+2016-07-21 14:52:35,236 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/ws/spring-xml/2.2.3.RELEASE/spring-xml-2.2.3.RELEASE.jar
+2016-07-21 14:52:35,297 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/ws/spring-xml/2.2.3.RELEASE/spring-xml-2.2.3.RELEASE.jar
+2016-07-21 14:52:36,668 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/ws/spring-ws-support/2.2.3.RELEASE/spring-ws-support-2.2.3.RELEASE.jar
+2016-07-21 14:52:37,129 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/ws/spring-ws-support/2.2.3.RELEASE/spring-ws-support-2.2.3.RELEASE.jar
+2016-07-21 14:52:43,752 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.croper:com.croper:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper\pom.xml.
+2016-07-21 14:52:44,152 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.croper.configserver:com.croper.configserver:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper.configserver\pom.xml.
+2016-07-21 14:52:46,505 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.croper.eurekaserver:com.croper.eurekaserver:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper.eurekaserver\pom.xml.
+2016-07-21 14:52:47,331 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.croper.pcm:com.croper.pcm:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper.pcm\pom.xml.
+2016-07-21 14:53:00,120 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.croper.web/src/main/java
+2016-07-21 14:53:00,122 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.croper.web/src/main/resources
+2016-07-21 14:53:00,151 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.croper.web/src/main/resources
+2016-07-21 14:53:00,169 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.croper.web/src/test/java
+2016-07-21 14:53:03,684 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 14:53:03,689 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-21 14:53:03,706 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-21 14:53:03,721 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 14:53:03,721 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.configserver\src\test\resources
+2016-07-21 14:53:04,041 [Worker-46] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 76 sec
+2016-07-21 14:53:04,089 [Worker-46] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-21 14:53:04,527 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.croper.web:com.croper.web:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper.web\pom.xml.
+2016-07-21 14:53:08,075 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.croper.web/src/main/java
+2016-07-21 14:53:08,079 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.croper.web/src/main/resources
+2016-07-21 14:53:08,084 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.croper.web/src/main/resources
+2016-07-21 14:53:08,099 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.croper.web/src/test/java
+2016-07-21 14:53:10,819 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 14:53:10,820 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-21 14:53:10,825 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-21 14:53:10,833 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 14:53:10,833 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.eurekaserver\src\test\resources
+2016-07-21 14:53:11,035 [Worker-46] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2016-07-21 14:53:12,477 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 14:53:12,477 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-21 14:53:12,484 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-21 14:53:12,563 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 14:53:12,564 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.pcm\src\test\resources
+2016-07-21 14:53:13,534 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 14:53:13,535 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-21 14:53:13,537 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-21 14:53:13,539 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 14:53:13,539 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.web\src\test\resources
+2016-07-21 14:59:07,508 [Worker-54] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.croper.web:com.croper.web:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper.web\pom.xml.
+2016-07-21 14:59:09,124 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-cache/1.3.5.RELEASE/spring-boot-starter-cache-1.3.5.RELEASE.pom
+2016-07-21 14:59:09,177 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-cache/1.3.5.RELEASE/spring-boot-starter-cache-1.3.5.RELEASE.pom
+2016-07-21 14:59:09,219 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-mobile/1.3.5.RELEASE/spring-boot-starter-mobile-1.3.5.RELEASE.pom
+2016-07-21 14:59:09,279 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-mobile/1.3.5.RELEASE/spring-boot-starter-mobile-1.3.5.RELEASE.pom
+2016-07-21 14:59:10,241 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-security/1.3.5.RELEASE/spring-boot-starter-security-1.3.5.RELEASE.pom
+2016-07-21 14:59:10,293 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-security/1.3.5.RELEASE/spring-boot-starter-security-1.3.5.RELEASE.pom
+2016-07-21 14:59:11,177 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-ws/1.3.5.RELEASE/spring-boot-starter-ws-1.3.5.RELEASE.pom
+2016-07-21 14:59:11,231 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-ws/1.3.5.RELEASE/spring-boot-starter-ws-1.3.5.RELEASE.pom
+2016-07-21 14:59:12,051 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-jms/4.2.6.RELEASE/spring-jms-4.2.6.RELEASE.pom
+2016-07-21 14:59:12,107 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-jms/4.2.6.RELEASE/spring-jms-4.2.6.RELEASE.pom
+2016-07-21 14:59:12,941 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-messaging/4.2.6.RELEASE/spring-messaging-4.2.6.RELEASE.pom
+2016-07-21 14:59:13,002 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-messaging/4.2.6.RELEASE/spring-messaging-4.2.6.RELEASE.pom
+2016-07-21 14:59:13,824 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-oxm/4.2.6.RELEASE/spring-oxm-4.2.6.RELEASE.pom
+2016-07-21 14:59:13,865 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-oxm/4.2.6.RELEASE/spring-oxm-4.2.6.RELEASE.pom
+2016-07-21 14:59:14,859 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-cache/1.3.5.RELEASE/spring-boot-starter-cache-1.3.5.RELEASE.jar
+2016-07-21 14:59:14,888 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-cache/1.3.5.RELEASE/spring-boot-starter-cache-1.3.5.RELEASE.jar
+2016-07-21 14:59:14,912 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-mobile/1.3.5.RELEASE/spring-boot-starter-mobile-1.3.5.RELEASE.jar
+2016-07-21 14:59:14,943 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-mobile/1.3.5.RELEASE/spring-boot-starter-mobile-1.3.5.RELEASE.jar
+2016-07-21 14:59:15,762 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-security/1.3.5.RELEASE/spring-boot-starter-security-1.3.5.RELEASE.jar
+2016-07-21 14:59:15,791 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-security/1.3.5.RELEASE/spring-boot-starter-security-1.3.5.RELEASE.jar
+2016-07-21 14:59:16,615 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-ws/1.3.5.RELEASE/spring-boot-starter-ws-1.3.5.RELEASE.jar
+2016-07-21 14:59:16,649 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-ws/1.3.5.RELEASE/spring-boot-starter-ws-1.3.5.RELEASE.jar
+2016-07-21 14:59:20,028 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-jms/4.2.6.RELEASE/spring-jms-4.2.6.RELEASE.jar
+2016-07-21 14:59:20,181 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-jms/4.2.6.RELEASE/spring-jms-4.2.6.RELEASE.jar
+2016-07-21 14:59:24,688 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-messaging/4.2.6.RELEASE/spring-messaging-4.2.6.RELEASE.jar
+2016-07-21 14:59:24,893 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-messaging/4.2.6.RELEASE/spring-messaging-4.2.6.RELEASE.jar
+2016-07-21 14:59:26,662 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-oxm/4.2.6.RELEASE/spring-oxm-4.2.6.RELEASE.jar
+2016-07-21 14:59:26,745 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mo-dml.ebs.ecomp.com:8080/nexus/content/groups/public/org/springframework/spring-oxm/4.2.6.RELEASE/spring-oxm-4.2.6.RELEASE.jar
+2016-07-21 14:59:29,281 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 14:59:29,282 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-21 14:59:29,283 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-21 14:59:29,286 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 14:59:29,286 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.web\src\test\resources
+2016-07-21 14:59:31,557 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 14:59:31,559 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-21 14:59:31,560 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-21 14:59:31,563 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 14:59:31,563 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.web\src\test\resources
+2016-07-21 14:59:45,644 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.croper:com.croper:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper\pom.xml.
+2016-07-21 14:59:46,460 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.croper.configserver:com.croper.configserver:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper.configserver\pom.xml.
+2016-07-21 14:59:47,502 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.croper.pcm:com.croper.pcm:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper.pcm\pom.xml.
+2016-07-21 14:59:47,853 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.croper.eurekaserver:com.croper.eurekaserver:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper.eurekaserver\pom.xml.
+2016-07-21 14:59:48,386 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.croper.web:com.croper.web:0.0.1-SNAPSHOT @ D:\studydata\crapper-workspace\com.croper.web\pom.xml.
+2016-07-21 15:00:03,464 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 15:00:03,465 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-21 15:00:03,465 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-21 15:00:03,468 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 15:00:03,469 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.configserver\src\test\resources
+2016-07-21 15:00:04,601 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 15:00:04,602 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-21 15:00:04,602 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-21 15:00:04,604 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 15:00:04,604 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.eurekaserver\src\test\resources
+2016-07-21 15:00:05,122 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 15:00:05,122 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-21 15:00:05,122 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-21 15:00:05,124 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 15:00:05,124 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.pcm\src\test\resources
+2016-07-21 15:00:05,877 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 15:00:05,878 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-21 15:00:05,878 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-21 15:00:05,880 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 15:00:05,880 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.web\src\test\resources
+2016-07-21 16:50:25,187 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 16:50:25,188 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-21 16:50:25,208 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-21 16:50:25,211 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-21 16:50:25,211 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.web\src\test\resources
+2016-07-26 10:58:51,593 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-26 10:58:51,619 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-26 10:58:51,642 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-26 10:58:51,654 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-26 10:58:51,654 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.configserver\src\test\resources
+2016-07-26 10:59:25,550 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-26 10:59:25,554 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-26 10:59:25,569 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-26 10:59:25,592 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-26 10:59:25,593 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.eurekaserver\src\test\resources
+2016-07-26 10:59:27,123 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-26 10:59:27,123 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-26 10:59:27,131 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-26 10:59:27,143 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-26 10:59:27,143 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.pcm\src\test\resources
+2016-07-26 10:59:27,452 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-26 10:59:27,452 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-26 10:59:27,454 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-26 10:59:27,459 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-26 10:59:27,459 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\studydata\crapper-workspace\com.croper.web\src\test\resources

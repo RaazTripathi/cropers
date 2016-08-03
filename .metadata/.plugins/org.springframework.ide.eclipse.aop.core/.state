@@ -2,5 +2,6 @@
 <aop-reference-model>
 <aop-project name="com.croper.eurekaserver"/>
 <aop-project name="com.croper.pcm"/>
+<aop-project name="com.croper.web"/>
 <aop-project name="com.croper.configserver"/>
 </aop-reference-model>
