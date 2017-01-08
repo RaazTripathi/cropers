@@ -1,0 +1,13 @@
+package com.croper.product;
+
+import java.util.Currency;
+
+public class CrProduct {
+	int id;
+	String productName;
+	String descreption;
+	Currency price;
+	String image;
+	CrCategory category;
+
+}

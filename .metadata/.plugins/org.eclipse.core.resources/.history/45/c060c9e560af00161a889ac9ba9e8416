@@ -1,0 +1,39 @@
+/**
+ * 
+ */
+package com.croper.web.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.croper.product.CrProduct;
+import com.croper.repo.CrProductRepository;
+
+import scala.annotation.meta.setter;
+
+/**
+ * @author raaz
+ *
+ */
+
+@Controller
+public class HomePageController {
+	
+	@Autowired
+	CrProductRepository productRepo;
+	
+	
+	@RequestMapping("/")
+	public String home()
+	{
+		CrProduct product=new CrProduct();
+		product.setProductName("Gehu");
+		
+		
+		System.out.println("hello");
+		return "abc.xml";
+		
+	}
+
+}

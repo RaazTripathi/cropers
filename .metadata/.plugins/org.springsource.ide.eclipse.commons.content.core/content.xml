@@ -130,4 +130,7 @@
 <description>This tutorial shows you how to create a contract-first web service with Spring-WS. The contract-first approach is an industry recognized best practice. In short it means we'll design an XML contract first and a Java implementation second.</description>
 <dependency id="com.springsource.sts.org.apache.tomcat"/>
 </descriptor>
+<descriptor id="org.springframework.templates.mvc" kind="template" local="true" name="Spring MVC Project" requiresbundle="org.eclipse.m2e.core" size="0" version="3.2.2">
+<description>A new Spring MVC web application development project</description>
+</descriptor>
 </descriptors>

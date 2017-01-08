@@ -1,0 +1,12 @@
+package com.croper.product;
+
+import java.util.Set;
+
+public class CrCategory {
+	String id;
+	String name;
+	String description;
+	Set<CrProduct> products;
+	
+
+}

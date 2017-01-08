@@ -1,0 +1,12 @@
+package com.croper;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CroperRepositoryApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CroperRepositoryApplication.class, args);
+	}
+}

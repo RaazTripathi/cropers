@@ -1,0 +1,16 @@
+/**
+ * 
+ */
+package com.croper.web.controller;
+
+import org.springframework.stereotype.Controller;
+
+/**
+ * @author raaz
+ *
+ */
+
+@Controller
+public class HomePageController {
+
+}

@@ -1,0 +1,16 @@
+package com.croper.web;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.ComponentScans;
+
+@SpringBootApplication
+@ComponentScan({"com.croper.repo","com.my.package.second"})
+
+public class CroperWebAppApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CroperWebAppApplication.class, args);
+	}
+}
