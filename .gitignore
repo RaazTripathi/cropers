@@ -1,0 +1,10 @@
+.metadata
+.metadata/
+.class
+/target/
+server
+.project
+.settings
+.classpath
+
+emoteSystemsTempFiles/

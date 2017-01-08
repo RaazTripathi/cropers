@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;com.croper.configserver/src/main/resources/registration-server.yml&apos; to &apos;registration-client.yml&apos;" description="Rename resource &apos;registration-server.yml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/registration-server.yml" name="registration-client.yml" stamp="1465898921345" updateReferences="true"/>
-</session>

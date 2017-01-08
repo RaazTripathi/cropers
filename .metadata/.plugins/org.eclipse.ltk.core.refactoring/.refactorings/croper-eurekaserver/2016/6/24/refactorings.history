@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;registration-server.yml&apos; to &apos;com.croper.configserver/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;croper&apos;&#x0D;&#x0A;- Destination element: &apos;com.croper.configserver/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;registration-server.yml&apos;" description="Copy file" destination="=com.croper.configserver/src\/main\/resources" element1="src/main/resources/registration-server.yml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1465898848183" units="0" version="1.0"/>
-</session>
